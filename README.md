@@ -134,7 +134,7 @@ Anomaly Detection · TLS
   <img src="https://img.shields.io/badge/%20-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" width="48" />
-  <img src="https://img.shields.io/badge/%20-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-007396?style=for-the-badge&logo=coffeescript&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-212121?style=for-the-badge&logo=pfsense&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-CC0000?style=for-the-badge&logo=snort&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="48" />
@@ -147,7 +147,7 @@ Anomaly Detection · TLS
 
 <p align="center">
   <img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" />
-  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=%20&message=%20&logo=java&logoColor=white&color=007396" width="48" />
+  <img src="https://img.shields.io/badge/%20-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="48" />
   <img src="https://img.shields.io/badge/%20-777BB4?style=for-the-badge&logo=php&logoColor=white" width="48" />
