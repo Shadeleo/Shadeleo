@@ -204,7 +204,7 @@ Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5% · Other 4%
 <img height="175" src="https://github-readme-stats.vercel.app/api?username=Shadeleo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&ring_color=58a6ff&cache_seconds=1800"/>
 &nbsp;
 <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shadeleo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&cache_seconds=1800"/>
-
+</div>
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Shadeleo&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border=21262d&hide_border=true"/>
