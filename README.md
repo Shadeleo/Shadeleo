@@ -128,7 +128,7 @@ Anomaly Detection · TLS
 <div align="center">
 
 ### 🔐 Security & Networks
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/%20-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="48" />
   <img src="https://img.shields.io/badge/%20-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="48" />
@@ -145,29 +145,30 @@ Anomaly Detection · TLS
 
 ### 💻 Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=white&color=3776AB" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=java&logoColor=white&color=007396" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=typescript&logoColor=white&color=3178C6" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=php&logoColor=white&color=777BB4" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=scala&logoColor=white&color=DC322F" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=lua&logoColor=white&color=2C2D72" width="48" />
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-007396?style=for-the-badge&logo=java&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="48" />
+  <img src="https://img.shields.io/badge/%20-777BB4?style=for-the-badge&logo=php&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-DC322F?style=for-the-badge&logo=scala&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-2C2D72?style=for-the-badge&logo=lua&logoColor=white" width="48" />
 </p>
 
 
 ### 🔧 Frameworks & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=laravel&logoColor=white&color=FF2D20" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=fastapi&logoColor=white&color=009688" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=white&color=339933" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=docker&logoColor=white&color=2496ED" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoColor=white&color=4169E1" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=sqlite&logoColor=white&color=003B57" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=white&color=F05032" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=androidstudio&logoColor=white&color=3DDC84" width="48" />
+<p align="center">
+  <img src="https://img.shields.io/badge/%20-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-009688?style=for-the-badge&logo=fastapi&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-339933?style=for-the-badge&logo=node.js&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-2496ED?style=for-the-badge&logo=docker&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-003B57?style=for-the-badge&logo=sqlite&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-F05032?style=for-the-badge&logo=git&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" width="48" />
 </p>
+
 
 </div>
 
