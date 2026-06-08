@@ -25,14 +25,6 @@
 
 ## 🧑‍💻 About Me
 
-<!-- BANNIÈRE -->
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-       width="100%"
-       style="max-width: 700px; border-radius: 12px; margin-bottom: 20px;"
-       alt="Coding banner"/>
-</div>
-
 <!-- CODE BLOCK -->
 <pre>
 <code>
