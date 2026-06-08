@@ -10,6 +10,8 @@
 ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝
 ```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Security+Researcher+%F0%9F%94%8D;Network+Monitoring+%7C+Blue+Team+%F0%9F%9B%A1%EF%B8%8F;I+build+things%2C+break+things%2C+secure+things;Master+Cybersecurity+%7C+Full+Stack+Dev)](https://git.io/typing-svg)
+
 **Security Researcher · App Developer · I touch everything 🛡️**
 
 [![Discord](https://img.shields.io/badge/Discord-.shadee.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.shadee.)
@@ -98,12 +100,96 @@ Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5%
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Skills
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shadeleo&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/Shadeleo)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadeleo&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Shadeleo)
+<svg width="720" height="320" viewBox="0 0 720 320" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .bg { fill: #0d1117; }
+    .title { fill: #58a6ff; font-family: 'Fira Code', monospace; font-size: 13px; font-weight: 600; }
+    .label { fill: #8b949e; font-family: 'Fira Code', monospace; font-size: 11px; }
+    .pct { fill: #58a6ff; font-family: 'Fira Code', monospace; font-size: 11px; font-weight: 600; }
+    .track { fill: #161b22; rx: 4; }
+    .bar-cyber { fill: #58a6ff; }
+    .bar-dev   { fill: #3fb950; }
+    .bar-net   { fill: #d2a8ff; }
+
+    @keyframes growL { from { width: 0; } }
+
+    .b1  { animation: growL 1.0s 0.1s ease-out both; }
+    .b2  { animation: growL 1.0s 0.2s ease-out both; }
+    .b3  { animation: growL 1.0s 0.3s ease-out both; }
+    .b4  { animation: growL 1.0s 0.4s ease-out both; }
+    .b5  { animation: growL 1.0s 0.5s ease-out both; }
+    .b6  { animation: growL 1.0s 0.6s ease-out both; }
+    .b7  { animation: growL 1.0s 0.7s ease-out both; }
+    .b8  { animation: growL 1.0s 0.8s ease-out both; }
+    .b9  { animation: growL 1.0s 0.9s ease-out both; }
+  </style>
+
+  <rect width="720" height="320" rx="10" class="bg"/>
+
+  <!-- Col 1 — Cybersecurity -->
+  <text x="30" y="30" class="title">🔐 Cybersecurity</text>
+
+  <text x="30"  y="58"  class="label">Network Analysis</text>
+  <rect x="30"  y="63"  width="270" height="8" rx="4" class="track"/>
+  <rect x="30"  y="63"  width="243" height="8" rx="4" class="bar-cyber b1"/>
+  <text x="308" y="71"  class="pct">90%</text>
+
+  <text x="30"  y="92"  class="label">System Hardening</text>
+  <rect x="30"  y="97"  width="270" height="8" rx="4" class="track"/>
+  <rect x="30"  y="97"  width="216" height="8" rx="4" class="bar-cyber b2"/>
+  <text x="308" y="105" class="pct">80%</text>
+
+  <text x="30"  y="126" class="label">Pentest / OSINT</text>
+  <rect x="30"  y="131" width="270" height="8" rx="4" class="track"/>
+  <rect x="30"  y="131" width="189" height="8" rx="4" class="bar-cyber b3"/>
+  <text x="308" y="139" class="pct">70%</text>
+
+  <text x="30"  y="160" class="label">ISO 27001 / NIST</text>
+  <rect x="30"  y="165" width="270" height="8" rx="4" class="track"/>
+  <rect x="30"  y="165" width="202" height="8" rx="4" class="bar-cyber b4"/>
+  <text x="308" y="173" class="pct">75%</text>
+
+  <text x="30"  y="194" class="label">OWASP / MITRE</text>
+  <rect x="30"  y="199" width="270" height="8" rx="4" class="track"/>
+  <rect x="30"  y="199" width="189" height="8" rx="4" class="bar-cyber b5"/>
+  <text x="308" y="207" class="pct">70%</text>
+
+  <!-- Col 2 — Development -->
+  <text x="380" y="30" class="title">💻 Development</text>
+
+  <text x="380" y="58"  class="label">Python</text>
+  <rect x="380" y="63"  width="270" height="8" rx="4" class="track"/>
+  <rect x="380" y="63"  width="243" height="8" rx="4" class="bar-dev b1"/>
+  <text x="658" y="71"  class="pct">90%</text>
+
+  <text x="380" y="92"  class="label">Java / Java EE</text>
+  <rect x="380" y="97"  width="270" height="8" rx="4" class="track"/>
+  <rect x="380" y="97"  width="216" height="8" rx="4" class="bar-dev b6"/>
+  <text x="658" y="105" class="pct">80%</text>
+
+  <text x="380" y="126" class="label">JS / TS / Node.js</text>
+  <rect x="380" y="131" width="270" height="8" rx="4" class="track"/>
+  <rect x="380" y="131" width="202" height="8" rx="4" class="bar-dev b7"/>
+  <text x="658" y="139" class="pct">75%</text>
+
+  <text x="380" y="160" class="label">PHP / Laravel</text>
+  <rect x="380" y="165" width="270" height="8" rx="4" class="track"/>
+  <rect x="380" y="165" width="189" height="8" rx="4" class="bar-dev b8"/>
+  <text x="658" y="173" class="pct">70%</text>
+
+  <text x="380" y="194" class="label">Docker / Android</text>
+  <rect x="380" y="199" width="270" height="8" rx="4" class="track"/>
+  <rect x="380" y="199" width="175" height="8" rx="4" class="bar-dev b9"/>
+  <text x="658" y="207" class="pct">65%</text>
+
+  <!-- Footer -->
+  <line x1="30" y1="270" x2="690" y2="270" stroke="#21262d" stroke-width="1"/>
+  <text x="360" y="292" class="label" text-anchor="middle">🛡️ Security Researcher · Master Cybersécurité · github.com/Shadeleo</text>
+</svg>
 
 </div>
 
