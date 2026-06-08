@@ -129,17 +129,7 @@ Anomaly Detection · TLS
 
 ### 🔐 Security & Networks
 
-![Kali Linux](https://skillicons.dev/icons?i=kali,linux&theme=dark)
-&nbsp;
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logoColor=white)
-![Snort](https://img.shields.io/badge/Snort_IDS-CC0000?style=flat-square&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
-
+![Security](https://skillicons.dev/icons?i=kali,linux,wireshark,burpsuite,metasploit,nmap,pfsense,snort,cisco,vmware&theme=dark)
 ### 💻 Languages
 
 ![Languages](https://skillicons.dev/icons?i=python,java,ts,js,php,scala,lua&theme=dark)
