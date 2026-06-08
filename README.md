@@ -129,17 +129,18 @@ Anomaly Detection · TLS
 
 ### 🔐 Security & Networks
 <p align="left">
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=kalilinux&logoColor=white&color=268BEE" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=linux&logoColor=black&color=FCC624" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=wireshark&logoColor=white&color=1679A7" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=burpsuite&logoColor=white&color=FF6633" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=metasploit&logoColor=white&color=2596CD" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=nmap&logoColor=white&color=0E83CD" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=pfsense&logoColor=white&color=212121" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=snort&logoColor=white&color=CC0000" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=cisco&logoColor=white&color=1BA0D7" width="48" />
-  <img src="https://img.shields.io/badge/-?style=flat-square&logo=vmware&logoColor=white&color=607078" width="48" />
+  <img src="https://img.shields.io/badge/%20-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-FCC624?style=for-the-badge&logo=linux&logoColor=black" width="48" />
+  <img src="https://img.shields.io/badge/%20-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-0E83CD?style=for-the-badge&logo=nmap&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-212121?style=for-the-badge&logo=pfsense&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-CC0000?style=for-the-badge&logo=snort&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-607078?style=for-the-badge&logo=vmware&logoColor=white" width="48" />
 </p>
+
 
 
 ### 💻 Languages
