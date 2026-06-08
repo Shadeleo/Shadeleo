@@ -128,33 +128,45 @@ Anomaly Detection · TLS
 <div align="center">
 
 ### 🔐 Security & Networks
-![](https://img.shields.io/badge/-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![](https://img.shields.io/badge/-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![](https://img.shields.io/badge/-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![](https://img.shields.io/badge/-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![](https://img.shields.io/badge/-CC0000?style=for-the-badge&logo=snort&logoColor=white)
-![](https://img.shields.io/badge/-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/-607078?style=for-the-badge&logo=vmware&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=kalilinux&logoColor=white&color=268BEE" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=linux&logoColor=black&color=FCC624" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=wireshark&logoColor=white&color=1679A7" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=burpsuite&logoColor=white&color=FF6633" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=metasploit&logoColor=white&color=2596CD" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=nmap&logoColor=white&color=0E83CD" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=pfsense&logoColor=white&color=212121" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=snort&logoColor=white&color=CC0000" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=cisco&logoColor=white&color=1BA0D7" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=vmware&logoColor=white&color=607078" width="48" />
+</p>
 
 
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python" width="48" />
-  <img src="https://skillicons.dev/icons?i=java" width="48" />
-  <img src="https://skillicons.dev/icons?i=ts" width="48" />
-  <img src="https://skillicons.dev/icons?i=js" width="48" />
-  <img src="https://skillicons.dev/icons?i=php" width="48" />
-  <img src="https://skillicons.dev/icons?i=scala" width="48" />
-  <img src="https://skillicons.dev/icons?i=lua" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=python&logoColor=white&color=3776AB" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=java&logoColor=white&color=007396" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=typescript&logoColor=white&color=3178C6" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=javascript&logoColor=black&color=F7DF1E" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=php&logoColor=white&color=777BB4" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=scala&logoColor=white&color=DC322F" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=lua&logoColor=white&color=2C2D72" width="48" />
 </p>
+
 
 ### 🔧 Frameworks & Tools
 
-![Tools](https://skillicons.dev/icons?i=laravel,fastapi,nodejs,docker,postgres,sqlite,git,androidstudio&theme=dark)
+<p align="left">
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=laravel&logoColor=white&color=FF2D20" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=fastapi&logoColor=white&color=009688" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=node.js&logoColor=white&color=339933" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=docker&logoColor=white&color=2496ED" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=postgresql&logoColor=white&color=4169E1" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=sqlite&logoColor=white&color=003B57" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=git&logoColor=white&color=F05032" width="48" />
+  <img src="https://img.shields.io/badge/-?style=flat-square&logo=androidstudio&logoColor=white&color=3DDC84" width="48" />
+</p>
 
 </div>
 
