@@ -27,7 +27,16 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="45%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     width="260" 
+     style="border-radius: 12px;" 
+     alt="Coding gif"/>
+
+</td>
+
+<td width="55%" valign="top">
 
 ```python
 class Shadeleo:
@@ -46,21 +55,6 @@ class Shadeleo:
     ]
     contact  = "Discord → .shadee."
     status   = "Building NetWatch 🛡️"
-```
-
-- 🔍 I **build things, break things, and secure them**
-- 🎓 **Master Cybersécurité** *(prev. L3 SLS — Systèmes · Logiciels · Sécurité ✓)*
-- 🌐 Focused on **Blue Team**, network monitoring & offensive security
-- 🤝 Open to **alternance / apprenticeship** in cybersecurity
-
-</td>
-<td align="center" width="40%" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" alt="Coding gif" style="border-radius: 12px;"/>
-
-</td>
-</tr>
-</table>
 
 ---
 
