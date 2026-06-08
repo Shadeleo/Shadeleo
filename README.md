@@ -147,7 +147,7 @@ Anomaly Detection · TLS
 
 <p align="center">
   <img src="https://img.shields.io/badge/%20-3776AB?style=for-the-badge&logo=python&logoColor=white" width="48" />
-  <img src="https://img.shields.io/static/v1?label=&message=&color=007396&style=for-the-badge&logo=java&logoColor=white" width="48" />
+  <img src="https://img.shields.io/static/v1?style=for-the-badge&label=%20&message=%20&logo=java&logoColor=white&color=007396" width="48" />
   <img src="https://img.shields.io/badge/%20-3178C6?style=for-the-badge&logo=typescript&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" width="48" />
   <img src="https://img.shields.io/badge/%20-777BB4?style=for-the-badge&logo=php&logoColor=white" width="48" />
