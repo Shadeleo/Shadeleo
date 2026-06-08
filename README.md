@@ -128,21 +128,31 @@ Anomaly Detection · TLS
 <div align="center">
 
 ### 🔐 Security & Networks
+<p align="left">
+  <img src="icons/security/kali.svg" width="48" />
+  <img src="icons/security/linux.svg" width="48" />
+  <img src="icons/security/wireshark.svg" width="48" />
+  <img src="icons/security/burpsuite.svg" width="48" />
+  <img src="icons/security/metasploit.svg" width="48" />
+  <img src="icons/security/nmap.svg" width="48" />
+  <img src="icons/security/pfsense.svg" width="48" />
+  <img src="icons/security/snort.svg" width="48" />
+  <img src="icons/security/cisco.svg" width="48" />
+  <img src="icons/security/vmware.svg" width="48" />
+</p>
 
-![](https://img.shields.io/badge/-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![](https://img.shields.io/badge/-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![](https://img.shields.io/badge/-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![](https://img.shields.io/badge/-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![](https://img.shields.io/badge/-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![](https://img.shields.io/badge/-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![](https://img.shields.io/badge/-212121?style=for-the-badge&logo=pfsense&logoColor=white)
-![](https://img.shields.io/badge/-CC0000?style=for-the-badge&logo=snort&logoColor=white)
-![](https://img.shields.io/badge/-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![](https://img.shields.io/badge/-607078?style=for-the-badge&logo=vmware&logoColor=white)
 
 ### 💻 Languages
 
-![Languages](https://skillicons.dev/icons?i=python,java,ts,js,php,scala,lua&theme=dark)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python" width="48" />
+  <img src="https://skillicons.dev/icons?i=java" width="48" />
+  <img src="https://skillicons.dev/icons?i=ts" width="48" />
+  <img src="https://skillicons.dev/icons?i=js" width="48" />
+  <img src="https://skillicons.dev/icons?i=php" width="48" />
+  <img src="https://skillicons.dev/icons?i=scala" width="48" />
+  <img src="https://skillicons.dev/icons?i=lua" width="48" />
+</p>
 
 ### 🔧 Frameworks & Tools
 
