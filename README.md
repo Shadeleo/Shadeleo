@@ -134,7 +134,7 @@ Anomaly Detection · TLS
   <img src="https://img.shields.io/badge/%20-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" width="48" />
-  <img src="https://img.shields.io/badge/%20-0E83CD?style=for-the-badge&logo=eyeem&logoColor=white" width="48" />
+  <img src="https://img.shields.io/badge/%20-0E83CD?style=for-the-badge&logo=sentry&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-212121?style=for-the-badge&logo=pfsense&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-CC0000?style=for-the-badge&logo=snort&logoColor=white" width="48" />
   <img src="https://img.shields.io/badge/%20-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" width="48" />
