@@ -129,7 +129,9 @@ Anomaly Detection · TLS
 
 ### 🔐 Security & Networks
 
-![Security](https://skillicons.dev/icons?i=kali,linux,wireshark,burpsuite,metasploit,nmap,pfsense,snort,cisco,vmware&theme=dark)
+![Security](https://skillicons.dev/icons?i=kali,linux,wireshark,burpsuite,metasploit&theme=dark)
+![Security](https://skillicons.dev/icons?i=nmap,pfsense,snort,cisco,vmware&theme=dark)
+
 ### 💻 Languages
 
 ![Languages](https://skillicons.dev/icons?i=python,java,ts,js,php,scala,lua&theme=dark)
