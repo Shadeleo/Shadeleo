@@ -22,24 +22,16 @@
 <br/>
 
 ---
+
 ## 🧑‍💻 About Me
 
-<table>
-<tr>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px; flex-wrap: wrap;">
 
-<!-- IMAGE -->
-<td width="40%" align="center" valign="middle">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-         width="260"
-         style="border-radius: 12px;"
-         alt="Coding gif"/>
-</td>
+  <!-- LEFT CARD -->
+  <div style="flex: 1; min-width: 280px;">
 
-<!-- TEXT + CODE -->
-<td width="60%" valign="top">
-
-<pre>
-<code>
+  <pre>
+  <code>
 class Shadeleo:
     role     = "Security Researcher & Full Stack Dev"
     studies  = "Master Cybersécurité (in progress)"
@@ -56,18 +48,27 @@ class Shadeleo:
     ]
     contact  = "Discord → .shadee."
     status   = "Building NetWatch 🛡️"
-</code>
-</pre>
+  </code>
+  </pre>
 
-- 🔍 I <b>build things, break things, and secure them</b><br>
-- 🎓 <b>Master Cybersécurité</b> (prev. L3 SLS — Systèmes · Logiciels · Sécurité ✓)<br>
-- 🌐 Focused on <b>Blue Team</b>, network monitoring & offensive security<br>
-- 🤝 Open to <b>alternance / apprenticeship</b> in cybersecurity
+  <ul>
+    <li>🔍 I <b>build things, break things, and secure them</b></li>
+    <li>🎓 <b>Master Cybersécurité</b> (prev. L3 SLS — Systèmes · Logiciels · Sécurité ✓)</li>
+    <li>🌐 Focused on <b>Blue Team</b>, network monitoring & offensive security</li>
+    <li>🤝 Open to <b>alternance / apprenticeship</b> in cybersecurity</li>
+  </ul>
 
-</td>
+  </div>
 
-</tr>
-</table>
+  <!-- RIGHT CARD -->
+  <div style="flex: 0 0 260px; text-align: center;">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+         width="260"
+         style="border-radius: 12px;"
+         alt="Coding gif"/>
+  </div>
+
+</div>
 
 ---
 
