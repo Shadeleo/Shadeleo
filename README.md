@@ -212,7 +212,7 @@ Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5% · Other 4%
 
 <div align="center">
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Shadeleo&bg_color=0d1117&color=58a6ff&line=1e3a5f&point=58a6ff&area=true&area_color=0a2540&hide_border=true&radius=6"/>
-</div>
+</div> 
 
 ---
 
