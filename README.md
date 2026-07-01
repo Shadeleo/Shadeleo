@@ -230,7 +230,7 @@ Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5% · Other 4%
 
 <sub>🤝 Open to opportunities in cybersecurity — alternance / apprenticeship</sub>
 
-</div>
+</div> 
 
 <br/>
 
