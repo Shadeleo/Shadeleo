@@ -1,6 +1,6 @@
 <!-- ╔═══════════════════════════════════════════════════════════════╗
      ║                    HEADER WAVE                               ║
-     ╚═══════════════════════════════════════════════════════════════╝ -->
+     ╚═══════════════════════════════════════════════════════════════╝ --> 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:061428,70:0d2b5e,100:1a5fb4&height=260&section=header&text=Shadeleo&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Security%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descColor=7eb3ff&descSize=22&fontAlign=50"/>
 
 <div align="center">
