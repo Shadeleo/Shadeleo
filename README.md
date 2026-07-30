@@ -3,17 +3,20 @@
      ╚═══════════════════════════════════════════════════════════════╝ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:061428,70:0d2b5e,100:1a5fb4&height=260&section=header&text=Shadeleo&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Security%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descColor=7eb3ff&descSize=22&fontAlign=50"/>
 <div align="center">
+
 <!-- TYPING ANIMATION -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things%2C+break+things%2C+secure+them+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+%7C+Network+Monitoring+%7C+Pentest+%F0%9F%94%8D;Master+Cybers%C3%A9curit%C3%A9+%E2%80%94+in+progress+%F0%9F%8E%93;Building+NetWatch+%F0%9F%9A%80;Open+to+alternance+%2F+apprenticeship+%F0%9F%A4%9D)](https://git.io/typing-svg)
-<br/>
+
 <!-- SOCIAL BADGES -->
+
 [![Discord](https://img.shields.io/badge/Discord-.shadee.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.shadee.)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Shadeleo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadeleo)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadeleo&color=58a6ff&style=for-the-badge&label=Visitors)
+
 </div>
-<br/>
 
 ---
 
