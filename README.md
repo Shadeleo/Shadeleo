@@ -14,11 +14,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadeleo&color=58a6ff&style=for-the-badge&label=Visitors)
 </div>
 <br/>
-
 ---
-
 ## 🧑‍💻 About Me
-
 ```python
 class Shadeleo:
     role      = "Security Researcher & Full Stack Dev"
@@ -37,11 +34,8 @@ class Shadeleo:
     contact   = "Discord → .shadee."
     status    = "🛡️ Building NetWatch"
 ```
-
 <br/>
-
 <div align="center">
-
 | | |
 |:---:|:---|
 | 🔭 | Currently building **NetWatch** — Network Monitoring Tool |
@@ -49,13 +43,9 @@ class Shadeleo:
 | 🌐 | Focused on **Blue Team**, network monitoring & offensive security |
 | 💼 | Open to **alternance / apprenticeship** in cybersecurity |
 | 📫 | Discord → `.shadee.` |
-
 </div>
-
 ---
-
 ## ⚡ What I Do
-
 <div align="center">
 <table>
 <tr>
@@ -92,99 +82,84 @@ Anomaly Detection · TLS
 </tr>
 </table>
 </div>
-
 ---
-
-## 🚀 Featured Project — Bbox WiFi Manager
-
+## 🛠️ Tech Stack
 <div align="center">
-
-[![Bbox WiFi Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shadeleo&repo=delete-app-from-box&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Shadeleo/delete-app-from-box)
-
+### 🔐 Security & Networks
+[![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
+[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
+[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](#)
+[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
+[![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)](#)
+[![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)](#)
+[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
+[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](#)
 <br/>
-
-Local web dashboard that talks directly to a Bbox Bouygues Telecom router's undocumented API to monitor and manage every device on the home network — nothing leaves the LAN.
-
+### 💻 Languages
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,java,ts,js,php,lua&theme=dark&perline=6" />
+</a>
 <br/>
-
+### 🔧 Frameworks & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,docker,postgres,sqlite,git,androidstudio&theme=dark&perline=8" />
+</a>
+</div>
+---
+## 🚀 Featured Project — NetWatch
+<div align="center">
+[![NetWatch Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shadeleo&repo=netwatch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Shadeleo/netwatch)
+<br/>
 | | Feature | Details |
 |:---:|:--------|:--------|
-| 📡 | **Live Device Table** | Name, IP, MAC, link type (Ethernet / WiFi 2.4‑5‑6 GHz), signal strength, sort & search |
-| 🕓 | **Persistent History** | Every device ever seen, kept in a local SQLite database — even once disconnected |
-| 🌐 | **Animated Network View** | 2D canvas map: router at the center, devices in orbit, live traffic particles |
-| 📊 | **Bandwidth Monitoring** | Real-time throughput + 24h history from a background collector, top talkers per device |
-| 🚫 | **Device Control** | Disconnect, block, unblock, kick-and-block, driven through the router's parental-control API |
-| 🔐 | **Reverse-Engineered Auth** | Reproduces the router's 2-step cloud authentication flow and CSRF token handling |
-| 🪟 | **Embedded Native UI** | Router's own admin interface proxied inline, session reused, no re-login needed |
-
+| 📡 | **Live Capture** | Real-time packet capture & bandwidth analysis |
+| 🔍 | **Device Discovery** | mDNS / NetBIOS / ARP + IEEE OUI database (~30k entries) |
+| 🚨 | **Anomaly Detection** | Port scans, DDoS patterns, unusual protocol detection |
+| 📊 | **Live Dashboard** | WebSocket-powered charts & real-time alert stream |
+| 🗄️ | **Cross-platform** | SQLite async backend — Windows · Linux · macOS |
 ```
-Stack: Flask (Python) backend · SQLite · vanilla JS (Canvas, Chart.js) · reverse-engineered REST API
+Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5% · Other 4%
 ```
-
 </div>
-
 ---
-
 ## 🏆 GitHub Trophies
-
 <div align="center">
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=Shadeleo&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
-
 ---
-
 ## 📊 GitHub Stats
-
 <div align="center">
-
 <img height="180" src="https://github-readme-stats-kappa-seven-14.vercel.app/api?username=Shadeleo&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true&ring_color=58a6ff"/>
 &nbsp;
 <img height="180" src="https://github-readme-stats-kappa-seven-14.vercel.app/api/top-langs/?username=Shadeleo&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8"/>
-
 <br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=Shadeleo&theme=dark&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&sideLabels=8b949e&dates=8b949e&border=21262d&hide_border=true"/>
-
 </div>
-
 ---
-
 ## 🐍 Contribution Snake
-
 <div align="center">
-
 <!-- Requires GitHub Action — see https://github.com/Platane/snk for setup -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Shadeleo/Shadeleo/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Shadeleo/Shadeleo/output/github-contribution-grid-snake.svg"/>
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Shadeleo/Shadeleo/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
 </div>
-
 ---
-
 ## 📬 Get In Touch
-
 <div align="center">
-
 **The only way to reach me:**
-
 <br/>
-
 [![Discord](https://img.shields.io/badge/Discord-.shadee.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.shadee.)
-
 <br/>
-
 <sub>🤝 Open to opportunities in cybersecurity — alternance / apprenticeship</sub>
-
-</div>
-
+</div> 
 <br/>
-
 <!-- ╔═══════════════════════════════════════════════════════════════╗
      ║                    FOOTER WAVE                               ║
      ╚═══════════════════════════════════════════════════════════════╝ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a5fb4,40:0d2b5e,75:061428,100:0d1117&height=150&section=footer"/>
+
+
+ca c 'est mon profil github change le projet netwatch par celui la qui est beaucoup plus pertinant : https://github.com/Shadeleo/delete-app-from-box
