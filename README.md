@@ -2,23 +2,17 @@
      ║                    HEADER WAVE                               ║
      ╚═══════════════════════════════════════════════════════════════╝ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:061428,70:0d2b5e,100:1a5fb4&height=260&section=header&text=Shadeleo&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=42&desc=Security%20Researcher%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=62&descColor=7eb3ff&descSize=22&fontAlign=50"/>
-
 <div align="center">
-
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things%2C+break+things%2C+secure+them+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+%7C+Network+Monitoring+%7C+Pentest+%F0%9F%94%8D;Master+Cybers%C3%A9curit%C3%A9+%E2%80%94+in+progress+%F0%9F%8E%93;Building+NetWatch+%F0%9F%9A%80;Open+to+alternance+%2F+apprenticeship+%F0%9F%A4%9D)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=I+build+things%2C+break+things%2C+secure+them+%F0%9F%9B%A1%EF%B8%8F;Blue+Team+%7C+Network+Monitoring+%7C+Pentest+%F0%9F%94%8D;Master+Cybers%C3%A9curit%C3%A9+%E2%80%94+in+progress+%F0%9F%8E%93;Building+Bbox+WiFi+Manager+%F0%9F%9A%80;Open+to+alternance+%2F+apprenticeship+%F0%9F%A4%9D)](https://git.io/typing-svg)
 <br/>
-
 <!-- SOCIAL BADGES -->
 [![Discord](https://img.shields.io/badge/Discord-.shadee.-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/.shadee.)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-Shadeleo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shadeleo)
 &nbsp;
 ![Profile Views](https://komarev.com/ghpvc/?username=Shadeleo&color=58a6ff&style=for-the-badge&label=Visitors)
-
 </div>
-
 <br/>
 
 ---
@@ -41,7 +35,7 @@ class Shadeleo:
         "RGPD / GDPR / ITIL",
     ]
     contact   = "Discord → .shadee."
-    status    = "🛡️ Building NetWatch"
+    status    = "🛡️ Building Bbox WiFi Manager"
 ```
 
 <br/>
@@ -50,7 +44,7 @@ class Shadeleo:
 
 | | |
 |:---:|:---|
-| 🔭 | Currently building **NetWatch** — Network Monitoring Tool |
+| 🔭 | Currently building **Bbox WiFi Manager** — local dashboard to monitor & control devices on a home network |
 | 🎓 | **Master Cybersécurité** *(prev. L3 SLS — Systèmes · Logiciels · Sécurité ✓)* |
 | 🌐 | Focused on **Blue Team**, network monitoring & offensive security |
 | 💼 | Open to **alternance / apprenticeship** in cybersecurity |
@@ -63,10 +57,8 @@ class Shadeleo:
 ## ⚡ What I Do
 
 <div align="center">
-
 <table>
 <tr>
-
 <td align="center" width="33%">
 <br/>
 <b>🔐 Security</b>
@@ -77,7 +69,6 @@ ISO 27001 · NIST CSF<br/>
 OWASP · MITRE ATT&CK
 <br/><br/>
 </td>
-
 <td align="center" width="33%">
 <br/>
 <b>💻 Development</b>
@@ -88,7 +79,6 @@ Node.js · Docker<br/>
 REST APIs · Android
 <br/><br/>
 </td>
-
 <td align="center" width="33%">
 <br/>
 <b>🌐 Networks</b>
@@ -99,68 +89,36 @@ mDNS / NetBIOS / ARP<br/>
 Anomaly Detection · TLS
 <br/><br/>
 </td>
-
 </tr>
 </table>
-
 </div>
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Project — Bbox WiFi Manager
 
 <div align="center">
 
-### 🔐 Security & Networks
-
-[![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](#)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
-[![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](#)
-[![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](#)
-[![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](#)
-[![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)](#)
-[![Snort](https://img.shields.io/badge/Snort-CC0000?style=for-the-badge&logo=snort&logoColor=white)](#)
-[![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)](#)
-[![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)](#)
+[![Bbox WiFi Manager Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shadeleo&repo=delete-app-from-box&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Shadeleo/delete-app-from-box)
 
 <br/>
 
-### 💻 Languages
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=python,java,ts,js,php,lua&theme=dark&perline=6" />
-</a>
-
-<br/>
-
-### 🔧 Frameworks & Tools
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=laravel,fastapi,nodejs,docker,postgres,sqlite,git,androidstudio&theme=dark&perline=8" />
-</a>
-
-</div>
-
----
-
-## 🚀 Featured Project — NetWatch
-
-<div align="center">
-
-[![NetWatch Repo](https://github-readme-stats.vercel.app/api/pin/?username=Shadeleo&repo=netwatch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff)](https://github.com/Shadeleo/netwatch)
+Local web dashboard that talks directly to a Bbox Bouygues Telecom router's undocumented API to monitor and manage every device on the home network — nothing leaves the LAN.
 
 <br/>
 
 | | Feature | Details |
 |:---:|:--------|:--------|
-| 📡 | **Live Capture** | Real-time packet capture & bandwidth analysis |
-| 🔍 | **Device Discovery** | mDNS / NetBIOS / ARP + IEEE OUI database (~30k entries) |
-| 🚨 | **Anomaly Detection** | Port scans, DDoS patterns, unusual protocol detection |
-| 📊 | **Live Dashboard** | WebSocket-powered charts & real-time alert stream |
-| 🗄️ | **Cross-platform** | SQLite async backend — Windows · Linux · macOS |
+| 📡 | **Live Device Table** | Name, IP, MAC, link type (Ethernet / WiFi 2.4‑5‑6 GHz), signal strength, sort & search |
+| 🕓 | **Persistent History** | Every device ever seen, kept in a local SQLite database — even once disconnected |
+| 🌐 | **Animated Network View** | 2D canvas map: router at the center, devices in orbit, live traffic particles |
+| 📊 | **Bandwidth Monitoring** | Real-time throughput + 24h history from a background collector, top talkers per device |
+| 🚫 | **Device Control** | Disconnect, block, unblock, kick-and-block, driven through the router's parental-control API |
+| 🔐 | **Reverse-Engineered Auth** | Reproduces the router's 2-step cloud authentication flow and CSRF token handling |
+| 🪟 | **Embedded Native UI** | Router's own admin interface proxied inline, session reused, no re-login needed |
 
 ```
-Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5% · Other 4%
+Stack: Flask (Python) backend · SQLite · vanilla JS (Canvas, Chart.js) · reverse-engineered REST API
 ```
 
 </div>
@@ -222,7 +180,7 @@ Stack: Python 52% · JavaScript 21% · CSS 18% · HTML 5% · Other 4%
 
 <sub>🤝 Open to opportunities in cybersecurity — alternance / apprenticeship</sub>
 
-</div> 
+</div>
 
 <br/>
 
